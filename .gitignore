@@ -1,0 +1,9 @@
+/target
+**/*.rs.bk
+
+CLAUDE.md
+.claude/
+
+.DS_Store
+*.swp
+*.swo
